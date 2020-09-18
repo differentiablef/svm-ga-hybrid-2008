@@ -1,0 +1,5 @@
+* SVM-GA Hybrid Feature Selection Model
+
+- Chow, Rick, Wei Zhong, Michael Blackmon, Richard Stolz, and Marsha Dowell. "An efficient SVM-GA feature selection model for large healthcare databases." In Proceedings of the 10th annual conference on Genetic and evolutionary computation, pp. 1373-1380. 2008.
+
+- Chow, Rick, Wei Zhong, Michael Blackmon, Richard Stolz, and Marsha Dowell. "Evolving SVM Based Feature Selection Systems for Large Healthcare Databases." Message from the Program Committee (2008): 49.
